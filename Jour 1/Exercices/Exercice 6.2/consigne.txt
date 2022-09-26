@@ -1,14 +1,7 @@
-Dans index.html :
+Lorsque l'on clique sur le bouton 1/2,
+1 paragraphe sur deux dois se colorer
 
-Créer un élément <p> dans le body et lui affecter un id
-(ex : <p id='id'>Test</p>)
-Créer un élément <button> dans le body et lui affecter un id
-(ex : <button id='btn'>Boutton</button>)
-
-Dans script.js
-
-Lorsque je clique sur le boutton, le texte (contenu) du 
-paragraphe doit changer.
-
-Retirer le paragraphe, et faire en sorte que lorsqu'on clique
-sur le boutton, un nouveau paragraphe s'ajoute.
+Lorsque l'on clique sur le bouton classes,
+chaque paragraphe doit obtenir la classe correspondant
+à sa position dans la liste :
+<p class='0'>
