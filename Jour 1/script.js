@@ -73,3 +73,7 @@ console.log(tableau);
 for (let y = 0; y < tableau.length; y++) {
     console.log(tableau[y]);
 }
+
+tableau.forEach(element => {
+    console.log(element);
+});
