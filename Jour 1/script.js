@@ -96,5 +96,11 @@ function afficherTableau (tab) {
     });
 }
 
-afficherTableau(tableau);
-afficherTableau(tableau2);
+// afficherTableau(tableau);
+// afficherTableau(tableau2);
+
+function addition (a = 0, b = 0) {
+    return a + b
+}
+
+let c = addition(10);
