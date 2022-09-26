@@ -1,0 +1,3 @@
+Dans script.js
+Remplacer les "?" dans la boucle for pour 
+obtenir le même résultat que la boucle foreach.
