@@ -66,14 +66,35 @@ for (let i = 1; i <= 10; i++) {
 }
 
 let tableau = [89, 76, 52, 12];
+let tableau2 = [88, 746, 252, 112];
 
 console.log(tableau);
 
 
-for (let y = 0; y < tableau.length; y++) {
-    console.log(tableau[y]);
+// for (let y = 0; y < tableau.length; y++) {
+//     const elem = tableau[y];
+//     console.log(tableau[y]);
+// }
+
+// tableau.forEach(element => {
+//     console.log(element);
+// });
+
+
+// Fonctions
+
+function hello (str, str2) {
+    console.log(str);
+    console.log(str2);
 }
 
-tableau.forEach(element => {
-    console.log(element);
-});
+hello('Salut je suis content !', 'Youpi');
+
+function afficherTableau (tab) {
+    tab.forEach(element => {
+        console.log(element);
+    });
+}
+
+afficherTableau(tableau);
+afficherTableau(tableau2);
