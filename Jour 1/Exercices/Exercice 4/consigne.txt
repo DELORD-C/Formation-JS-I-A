@@ -1,6 +1,6 @@
 Dans script.js :
 
-Créer une fonction chaineDeCharactere() qui prend 1 argument
+Créer une fonction chaineDeCharactere() qui prend 1 paramètre
 et qui affiche dans la console une chaine de charactère composée
 de X (x étant le parametre passé) fois le charactère 8;
 
