@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 70px 0;
+}
+
+p {
+    text-align: center;
+}
