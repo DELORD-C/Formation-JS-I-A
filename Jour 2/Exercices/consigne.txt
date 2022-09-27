@@ -1,0 +1,6 @@
+Ajouter une vérification sur le formulaire pour le champ
+téléphone. Il faut que celui-ci soit bien formaté
++336 68 98 87 76
+06 90 91 72 63
+0899 76 76 65
+0345736454
