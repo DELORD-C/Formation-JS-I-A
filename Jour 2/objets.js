@@ -1,17 +1,17 @@
-let nom = 'DELORD';
-let prenom = 'Clément';
-let age = 28;
-let presence = true;
+// let nom = 'DELORD';
+// let prenom = 'Clément';
+// let age = 28;
+// let presence = true;
 
-let person = {nom, prenom, age, presence}
+// let person = {nom, prenom, age, presence}
 //property shorthands
 
-// let person = {
-//     'nom': 'DELORD',
-//     'prenom': 'Clément',
-//     'age': 28,
-//     'presence' : true
-// };
+let person = {
+    'nom': 'DELORD',
+    'prenom': 'Clément',
+    'age': 28,
+    'presence' : true
+};
 
 // let tableau = ['DELORD', 'Clément', 28, true];
 
@@ -24,3 +24,10 @@ let person = {nom, prenom, age, presence}
 // person.ville = 'Lyon';
 
 console.log(person);
+
+
+person.presentation = function () {
+    console.log("Bonjour , je m'appelle " + this.prenom + '.');
+}
+
+person.presentation();

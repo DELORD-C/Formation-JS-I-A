@@ -1,0 +1,14 @@
+Créer 1 classe Personnage qui aura les attributs et
+méthodes suivantes :
+
+- Nom
+- Classe
+- Force
+- Intelligence
+- Agilité
+- Vie
+- attaque()
+    La méthode Attaque doit prendre 1 autre personnage
+    en paramètre (ex : perso1.attaque(perso2)) et doit
+    réduire les points de vie de la cible d'autant
+    que la force du personnage qui lance l'attaque
