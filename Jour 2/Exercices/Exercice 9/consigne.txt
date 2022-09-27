@@ -1,0 +1,16 @@
+Faire en sorte que lorsque l'on presse la touche Entrer 
+seule les lignes contenant la chaine de caractère inscrite 
+dans le champ search restent visiblent.
+
+Etapes :
+
+- Trouver l'event listener qui se déclenche lorsque l'on presse
+la touche Entrer (indice : keydown / keypress)
+
+- Récupérer la liste de tous les éléments li
+(indice : getElementByTagName)
+
+- Itérer sur la liste et vérifier la valeur (indice : includes())
+
+- Agir en fonction de la valeur (afficher ou cacher)
+(indice : display)
