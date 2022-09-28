@@ -1,2 +1,5 @@
-Ajouter un paragraphe à la page lors de la
-pression du boutton
+Ajouter une image dans l'html
+Ajouter un bouton dans l'html
+
+Quand on clique sur le bouton,
+L'image doit faire un tour sur elle même.
