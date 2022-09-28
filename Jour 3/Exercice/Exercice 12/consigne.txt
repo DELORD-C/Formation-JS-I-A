@@ -1,0 +1,6 @@
+Lorsque l'on appuie sur le boutton Générer,
+Un ensemble de chiffres du loto apparaissent à l'écran.
+Si on rappuie sur Générer, les chiffres changent.
+
+1er nombre de 1 à 10
+5 autres nombres de 10 à 49
