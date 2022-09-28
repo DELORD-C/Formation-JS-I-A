@@ -1,0 +1,5 @@
+Ajouter deux bouttons suivant et précédent ainsi qu'une
+image à votre fichier html
+
+Lorsque l'on appuie sur précédent ou suivant,
+l'image doit changer. (cycle sur au moins 3 images)

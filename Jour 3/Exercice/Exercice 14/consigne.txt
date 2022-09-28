@@ -4,3 +4,14 @@ Ajouter un bouton dans l'html
 Quand on clique sur le bouton,
 L'image doit faire un tour sur elle même.
 
+Ajouter un paragraphe avec du contenu pour test
+
+Lorsque ma souris passe par dessus le paragraphe,
+la couleur de celui-ci dois changer en 
+une couleur aléatoire (parmis 3 couleurs)
+quand ma souris ressort, le paragraphe redevient noir.
+
+Lorsque l'utilisateur fait un clic droit sur la page,
+la fenêtre habituelle ne doit pas s'ouvrir
+Bonus : une autre fenètre s'ouvre à la place à
+coté de la souris

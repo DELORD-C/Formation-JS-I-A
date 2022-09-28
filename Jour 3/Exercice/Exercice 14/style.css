@@ -1,0 +1,13 @@
+#context {
+    position:absolute;
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: aliceblue;
+    display: none;
+}
+
+#context ul {
+    padding: 5px;
+    list-style: none;
+    margin: 0;
+}
