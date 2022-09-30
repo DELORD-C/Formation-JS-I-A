@@ -1,0 +1,16 @@
+Mettre en place un formulaire de recherche
+de film par titre
+
+Lorsque l'utilisateur fait une recherche, on vérifie
+dans une base de donnée (via un script php)
+si cette recherche à déjà été effectuée
+
+Si la recherche a déjà été effectuée :
+    On va récupérer les résultats de cette recherche dans
+    la base de donnée
+
+Sinon
+    On requête l'api puis on stocke les résultats en
+    base de donnée
+
+Dans les deux cas on affiche les résultats sur la page
